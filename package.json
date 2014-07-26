@@ -1,0 +1,21 @@
+{
+  "name": "gulpy",
+  "version": "0.0.1",
+  "description": "Playing with Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Robertson",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^4.1.6",
+    "envify": "^1.2.1",
+    "gulp": "^3.6.2",
+    "gulp-clean": "^0.3.0",
+    "gulp-size": "^0.3.1",
+    "react": "^0.10.0",
+    "reactify": "^0.13.1",
+    "vinyl-source-stream": "^0.1.1"
+  }
+}
