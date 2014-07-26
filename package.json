@@ -10,10 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "browserify": "^4.1.6",
+    "chai": "^1.9.1",
     "envify": "^1.2.1",
     "gulp": "^3.6.2",
     "gulp-clean": "^0.3.0",
+    "gulp-mocha": "^0.5.2",
     "gulp-size": "^0.3.1",
+    "mocha": "^1.21.0",
     "react": "^0.10.0",
     "reactify": "^0.13.1",
     "vinyl-source-stream": "^0.1.1"
